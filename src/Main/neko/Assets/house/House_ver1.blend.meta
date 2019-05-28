@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: a5904c183060935429f048cd0e1c626d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Baseboard
+    100002: C_TV
+    100004: Cabinet1
+    100006: Cabinet1_Door
+    100008: Countertop1
+    100010: CTRL_Hole
+    100012: entaku
+    100014: Floor
+    100016: Handle
+    100018: Handle_001
+    100020: Handle_002
+    100022: //RootNode
+    100024: led
+    100026: Room
+    100028: tatami1men
+    100030: tenjyo
+    100032: Window_Group
+    100034: Window_L
+    100036: Window_R
+    100038: WindowFrame
+    100040: Windows_Sill
+    400000: Baseboard
+    400002: C_TV
+    400004: Cabinet1
+    400006: Cabinet1_Door
+    400008: Countertop1
+    400010: CTRL_Hole
+    400012: entaku
+    400014: Floor
+    400016: Handle
+    400018: Handle_001
+    400020: Handle_002
+    400022: //RootNode
+    400024: led
+    400026: Room
+    400028: tatami1men
+    400030: tenjyo
+    400032: Window_Group
+    400034: Window_L
+    400036: Window_R
+    400038: WindowFrame
+    400040: Windows_Sill
+    2100000: unnamed
+    2100002: "\u5E8A\u5929"
+    2100004: tatamimodoki__tatami_png
+    2100006: "\u9244"
+    2100008: Material
+    2100010: led
+    2100012: "\u58C1"
+    2100014: "\u7E01"
+    2100016: Material_002
+    2100018: "\u30AC\u30E9\u30B9"
+    2100020: entaku_
+    2100022: Material_004
+    2100024: Material_003
+    2100026: Material_001
+    2300000: Baseboard
+    2300002: C_TV
+    2300004: Cabinet1
+    2300006: Cabinet1_Door
+    2300008: Countertop1
+    2300010: CTRL_Hole
+    2300012: entaku
+    2300014: Floor
+    2300016: Handle
+    2300018: Handle_001
+    2300020: Handle_002
+    2300022: led
+    2300024: Room
+    2300026: tatami1men
+    2300028: tenjyo
+    2300030: Window_L
+    2300032: Window_R
+    2300034: WindowFrame
+    2300036: Windows_Sill
+    3300000: Baseboard
+    3300002: C_TV
+    3300004: Cabinet1
+    3300006: Cabinet1_Door
+    3300008: Countertop1
+    3300010: CTRL_Hole
+    3300012: entaku
+    3300014: Floor
+    3300016: Handle
+    3300018: Handle_001
+    3300020: Handle_002
+    3300022: led
+    3300024: Room
+    3300026: tatami1men
+    3300028: tenjyo
+    3300030: Window_L
+    3300032: Window_R
+    3300034: WindowFrame
+    3300036: Windows_Sill
+    4300000: Cabinet1
+    4300002: Countertop1
+    4300004: Cabinet1_Door
+    4300006: Handle_002
+    4300008: tatami1men
+    4300010: led
+    4300012: tenjyo
+    4300014: Room
+    4300016: Floor
+    4300018: Baseboard
+    4300020: CTRL_Hole
+    4300022: WindowFrame
+    4300024: Windows_Sill
+    4300026: Window_R
+    4300028: Handle_001
+    4300030: Window_L
+    4300032: Handle
+    4300034: entaku
+    4300036: C_TV
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
