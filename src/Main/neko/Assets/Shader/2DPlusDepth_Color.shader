@@ -47,7 +47,7 @@
 			fixed4 frag (v2f i) : SV_Target
 			{    
 			int row = i.uv.y * 540; //For the black lines
-			int column = i.uv.x * 960; //For the header
+			int column = i.uv.x * 1920; //For the header
 
 			float mod_value = fmod(row,2.0);
 			fixed4 col;

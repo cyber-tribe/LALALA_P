@@ -50,7 +50,7 @@
 			{
 
 				int coord_y = i.uv.y * 540; //Gives us the current row.
-				int coord_x = i.uv.x * 960; //Note: We do not use this, but it is more clear to see it.
+				int coord_x = i.uv.x * 1920; //Note: We do not use this, but it is more clear to see it.
 
 				float mod_value = fmod(coord_y,2.0); //find whether this is an odd or even line.
 				fixed4 col;
