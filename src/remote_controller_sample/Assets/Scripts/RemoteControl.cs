@@ -30,6 +30,6 @@ public class RemoteControl : MonoBehaviour {
             ret = wiimote.ReadWiimoteData();
         } while (ret > 0);
 		float[] pointer = wiimote.Ir.GetPointingPosition();
-        cube.transform.position = new Vector3((pointer[0]-0.5f)*16f, (pointer[1]-0.5f)*9f, cube.transform.position.z);
+        cube.transform.position = new Vector3((pointer[0]-0.5f)*16f, (pointer[1]-0.5f)*3f, cube.transform.position.z);
     }
 }
